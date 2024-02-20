@@ -6,6 +6,7 @@
 :root {
   --main-duration: 0.5s;
   --main-color: #10cab7;
+  scroll-behavior: smooth;
 }
 body {
     font-family: 'Work Sans', sans-serif;
@@ -113,7 +114,7 @@ header .logo {
   padding-left: 25px;
 }
 .landing {
-  background-image: url(/front-end/Template-one-leon/images/landing.jpg);
+  background-image: url(/front-end/my_github/Template-one-leon/images/landing.jpg);
   height: calc(100vh - 64px);
   background-size: cover;
   position: relative;
